@@ -1,1 +1,1 @@
-console.log("I like shiny things but I'd marry you with paper rings")
+console.log("saying goodbye is a death by a thousand cuts")
