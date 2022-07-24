@@ -1,1 +1,1 @@
-console.log("life was a willow and it bent right to your wind")
+console.log("I like shiny things but I'd marry you with paper rings")
